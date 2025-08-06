@@ -74,17 +74,21 @@ This project provides a Graphical User Interface (GUI) for a lexical analyzer fo
    - Tokens for each line (e.g., `<Keyword, int>`, `<Operator, =>`).
    - Parse tree showing the relationships between tokens.
 
-## Project Details
-
-- **Author**: Geoffrey Giordano
-- **Tree Visualization**: Built using the `treelib` library.
-- **File Logging**: Outputs parse tree data to `tree.txt`.
-
 ## Future Enhancements
 
 - Expand tokenization to support additional language constructs.
 - Add error handling for invalid syntax.
 - Enhance tree visualization with color coding and better interactivity.
+
+## Contributing
+
+- If you'd like to contribute, please fork the repository and open a pull request to the `main` branch.
+
+## Project Details
+
+- **Author**: Geoffrey Giordano
+- **Tree Visualization**: Built using the `treelib` library.
+- **File Logging**: Outputs parse tree data to `tree.txt`.
 
 ## License
 
